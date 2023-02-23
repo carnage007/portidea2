@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:potrtfolio/Widget/CustomText.dart';
+import 'package:portfolio/Widget/CustomText.dart';
 
 class About extends StatelessWidget {
   Widget technology(BuildContext context, String text) {
@@ -29,7 +29,7 @@ class About extends StatelessWidget {
     var size = MediaQuery.of(context).size;
     return Container(
       height: size.height,
-      width:size.width - 100,
+      width: size.width - 100,
       child: Row(
         children: [
           //About me
@@ -103,7 +103,7 @@ class About extends StatelessWidget {
                 Container(
                   height: size.height * 0.15,
                   width: size.width,
-                  child: Wrap(  
+                  child: Wrap(
                     children: [
                       Container(
                         width: size.width * 0.20,
