@@ -78,7 +78,7 @@ Run the following command to generate a release build:
 
 
 
-##### Design credit : [Brittany Chiang](https://www.linkedin.com/in/bchiang7/).
+##### Designs credit : [Brittany Chiang](https://www.linkedin.com/in/bchiang7/).
 
 
 For help getting started with Flutter, view our
